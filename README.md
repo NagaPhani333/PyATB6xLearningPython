@@ -1,9 +1,4 @@
-Perfect — below is a **job-oriented, portfolio-style README** that is **short, impactful, badge-enabled**, and **optimized for interview & resume showcase**.
-You can directly paste this as `README.md` in your GitHub repository.
 
----
-
-````markdown
 # 🚀 Selenium 4 Web Automation with Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
